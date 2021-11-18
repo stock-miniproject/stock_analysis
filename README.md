@@ -1,4 +1,4 @@
-# Stock_Analysis
+# Stock Analysis
 
 #### This repository focuses on stock price prediction using machine learning algorithms. By creating a model from existing stock prices, the stock prices for a maximum of next 5 years are predicted. The libraries used are fbprophet, streamlit, yfinance, plotly and datetime.
 
